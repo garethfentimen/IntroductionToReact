@@ -1,0 +1,17 @@
+{
+  "name": "IntroductionToReact",
+  "version": "1.0.0",
+  "description": "Simple React Tryout",
+  "main": "TicTacToe.html",
+  "repository": "https://github.com/garethfentimen/IntroductionToReact.git",
+  "author": "garethfentimen <garethfentimen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10"
+  }
+}
